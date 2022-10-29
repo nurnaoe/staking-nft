@@ -14,7 +14,7 @@ import { useEffect, useState } from "react";
 import styles from "../styles/Home.module.css";
 
 const nftDropContractAddress = "0x322067594DBCE69A9a9711BC393440aA5e3Aaca1";
-const tokenContractAddress = "0xb1cF059e6847e4270920a02e969CA2E016AeA22B";
+const tokenContractAddress = "0x5B73fd777f535C5A47CC6eFb45d0cc66308B1468";
 const stakingContractAddress = "0xB712975e13427ac804177E7CebF08781bbF9B89c";
 
 const Stake: NextPage = () => {
